@@ -1,0 +1,2 @@
+Database name set as: data_crud
+Then import two sql files in that database, namely user.sql and post.sql
